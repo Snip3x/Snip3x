@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bilawal
-#### I am a Software Engineer woring on C and java Spring Boot.
+#### I am a Software Engineer working on C and java Spring Boot.
 I have worked on multiple java and java spring-based projects like Secure data communication over TCP, Smartwatch tracker firmware, Java-based game servers and other custom applications.
 
 - 🔭 Working at safarifone as C Developer
