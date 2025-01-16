@@ -2,7 +2,8 @@
 #### I am a Software Engineer working on C and java Spring Boot.
 I have worked on multiple java and java spring-based projects like Secure data communication over TCP, Smartwatch tracker firmware, Java-based game servers and other custom applications.
 
-- 🔭 Working at safarifone as C Developer
+- 🔭 Worked at safarifone as C/C++ Developer
+- 🔭 Working at Avanza Solutions as C++ and .Net Developer
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Snip3x)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bilawalimdad25)  [<img fill='orange' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/CSGO_Snip3x)  
